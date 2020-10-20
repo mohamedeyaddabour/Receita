@@ -1,0 +1,61 @@
+.imagem img {
+    width: 883px;
+    height: 374px;
+}
+
+.titulo {
+    text-align: left;
+    font-size: 89px;
+    font-weight: bold;
+    color: #FFB300;
+    Line-Height: 79px;
+}
+
+.autor {
+    color: black;
+    font-size: 21px;
+    font-weight: Bold;
+    text-align: right;
+    display: block;
+}
+
+.divisao {
+    border-color: gray;
+    margin: 34px 0;
+}
+
+.section2bold {
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+
+.h3 {
+    margin: 20px;
+    color: #FFB300;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.lista {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    margin: 40px;
+}
+
+iframe {
+    width: 883px;
+    height: 497px;
+}
+
+a {
+    margin: 20px 0;
+    font-size: 21px;
+    font-weight: bold;
+    color: #0037B3;
+    display: block;
+}
+
+.main {
+    max-width: 883px;
+}
